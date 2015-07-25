@@ -7,4 +7,5 @@ int main(int argc, char *argv[][])
     printf("heloo world, 2015.7.25...\n");
     printf("hello world, my branch");
     printf("hello world, local branch(delete)");
+    printf("hello world, local branch(delete2)");
 }
